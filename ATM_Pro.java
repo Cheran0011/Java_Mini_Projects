@@ -57,7 +57,7 @@ public class ATM_Pro {
                     }
                 default:
                     {
-                        System.out.println("Invalid Choice ...");
+                        System.out.println("Invalid Choices...");
                     }
             }
 			if(choice==4)
@@ -67,4 +67,5 @@ public class ATM_Pro {
         }while(true);
 		System.out.println("\t\t Thank You for Using our Banking Services....");
     }
+
 }
