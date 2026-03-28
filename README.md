@@ -26,4 +26,34 @@ Place orders
 Order summary and billing
 Search and filter food items
 
-3) 
+3) Swiggy Restaurant Ordering System (Console-Based):
+----------------------------------------------------
+
+📖 Description:
+--------------
+  This is a Java console-based food ordering application that simulates a simple restaurant ordering system similar to Swiggy. Users can select a restaurant, choose food items, enter quantity, and complete payment with basic billing functionality.
+  The project demonstrates core programming concepts like loops, switch-case, methods, and user input handling.
+
+🚀 Features:
+------------
+🏪 Multiple restaurant selection
+A2B
+SS Hyderabad
+Saravana Bhavan
+🍛 Food menu for each restaurant
+🔢 Quantity-based ordering
+💰 Payment calculation system
+💵 Change and insufficient payment handling
+🔁 Continuous ordering (loop system)
+❌ Exit option
+
+🛠️ Technologies Used:
+--------------------
+Java
+Scanner class (User Input)
+Control Statements (if-else, switch)
+Methods & Functions
+Thread.sleep() for UI delay
+
+
+
